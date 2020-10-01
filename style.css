@@ -30,3 +30,7 @@ body {
    color: white;
    background-color: darkblue;
 }
+
+#profile-job {
+   text-align: center;
+}
